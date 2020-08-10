@@ -21,5 +21,5 @@ Add following scripts to package.json scripts section:
 
 ```
 "dev": "gulp",
-"build: "gulp build"
+"build": "gulp build"
 ```
