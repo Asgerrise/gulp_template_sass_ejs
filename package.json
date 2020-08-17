@@ -1,5 +1,5 @@
 {
-  "name": "site",
+  "name": "sites",
   "version": "1.0.0",
   "description": "Template settings for a gulp project.",
   "main": "gulpfile.js",
